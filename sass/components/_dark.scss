@@ -1,0 +1,42 @@
+.night {
+    div.header {
+        background: #000;
+    }
+
+    div.page-container,div.jumbotron {
+        background: rgb(49, 49, 49) !important;
+    }
+
+    .card.card-default {
+        border: 1px solid #666 !important;
+    }
+
+    .first-card,div.card-body.text-center {
+        background: rgb(25, 25, 25);
+    }
+
+    h1,h2,h3,p {
+        color: #fff;
+    }
+
+    h5,span.light,span.dark,.welcome,.calary-title,a,div.card-title {
+        color: #fff !important;
+    }
+
+    h2.page-title.align-self-end {
+        color: #fff !important;
+    }
+
+    .horizontal-app-menu .menu-bar > ul li > a {
+        color: #fff !important;
+    }
+
+    span.help.pull-right {
+        color: #666;
+    }
+    
+    div.form-group,label.block {
+        color: #fff;
+    }
+}
+
